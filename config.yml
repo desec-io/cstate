@@ -372,6 +372,8 @@ params:
   # Default: UA-00000000-1
   googleAnalytics: UA-00000000-1
 
+  enableCustomHTML: true
+
 # These options affect the core of cState.
 # Please do not change them if you do not
 # know what you are doing.
