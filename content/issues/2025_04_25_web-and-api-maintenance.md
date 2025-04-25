@@ -1,7 +1,8 @@
 ---
 title: "Web and API maintenance"
 date: 2025-04-25 21:30:00
-resolved: false
+resolved: true
+resolvedWhen: 2025-04-25 21:35:00
 section: issue
 informational: true
 ---
